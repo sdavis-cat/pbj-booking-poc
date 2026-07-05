@@ -10,7 +10,7 @@ self-contained web page (no build step, no backend).
 ## Live demo
 
 If GitHub Pages is enabled for this repo, the demo is here:
-**https://stevedavis7.github.io/pbj-booking-poc/**
+**https://sdavis-cat.github.io/pbj-booking-poc/**
 
 Or just open `index.html` in any browser.
 
